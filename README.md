@@ -1,7 +1,7 @@
 # New Data Variables for Canadian Commercial Line Insurance
 
 
-### Motivation:
+### Goal:
 ***
 The overall aim of the project is to create new variables for Canadian businesses by leveraging different external data sources.
 
